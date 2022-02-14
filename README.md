@@ -4,3 +4,5 @@
 
 am adaugat un text 1
 adauga text 2
+
+adauga text 3
